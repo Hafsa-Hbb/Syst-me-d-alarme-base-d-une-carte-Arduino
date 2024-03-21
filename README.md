@@ -1,6 +1,6 @@
 # Syst-me-d-alarme-base-d-une-carte-Arduino
-L ’alarmes ’ a c t i v e d a n s l e s 3 s e c o n d e s q u i s u i v e n t
-l ’ a p p u i s u r l a t o u c h e A . P o u r d é t e c t e r d e s o b j e t s , i l
+L ’alarmes ’ a c t i v e   d a n s   l e s 3   s e c o n d e s    q u i   s u i v e n t
+l ’ a p p u i  sur l a t o u c h e  A . P o u r d é t e c t e r d e s o b j e t s , i l
 u t i l i s e u n c a p t e u r à u l t r a s o n s , u n e f o i s q u e
 l ' a l a r m e d é t e c t e q u e l q u e c h o s e , u n a v e r t i s s e u r
 s o n o r e c o m m e n c e à é m e t t r e u n s o n a v e c u n e l a m p e
